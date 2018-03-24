@@ -7,7 +7,7 @@
     "package.json"
   ],
   "increment": "patch",
-  "preReleaseId": "pre",
+  "preReleaseId": "foo",
   "buildCommand": false,
   "safeBump": true,
   "beforeChangelogCommand": false,
