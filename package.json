@@ -1,6 +1,6 @@
 {
   "name": "rit-test",
-  "version": "0.1.0-foo.3",
+  "version": "0.1.0-foo.4",
   "description": "release-it test",
   "main": "index.js",
   "scripts": {
