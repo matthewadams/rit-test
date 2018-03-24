@@ -1,0 +1,19 @@
+{
+  "name": "rit-test",
+  "version": "0.1.0-pre.0",
+  "description": "release-it test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewadams/rit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewadams/rit-test/issues"
+  },
+  "homepage": "https://github.com/matthewadams/rit-test#readme"
+}
