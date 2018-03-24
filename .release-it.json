@@ -25,7 +25,7 @@
     "pushArgs": "",
     "pushRepo": null,
     "beforeStartCommand": false,
-    "afterReleaseCommand": "json -f package.json version | xargs semver --preid ${preReleaseId} -i prerelease | xargs npm version --no-git-tag-version && git commit -a -m \"prepare next patch: $(json -f package.json version)\" && git push"
+    "afterReleaseCommand": "json -f package.json version | xargs semver --preid ${preReleaseId} -i prerelease | xargs npm version --no-git-tag-version && git commit -a -m \"prepare next ${increment}: $(json -f package.json version)\" && git push"
   },
   "npm": {
     "publish": false,
