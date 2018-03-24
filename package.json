@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/matthewadams/rit-test#readme",
   "devDependencies": {
+    "fx": "^1.1.0",
+    "json": "^9.0.6",
     "release-it": "^7.2.1"
   }
 }
